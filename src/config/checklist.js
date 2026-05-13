@@ -1,0 +1,23 @@
+export const CHECKLIST_ITEMS = [
+  { key: 'books_collection', label: 'Books Collection' },
+  { key: 'app_download_login_verification', label: 'App Downloading & Login Verification' },
+  { key: 'offline_mock_test_rules', label: 'Offline Mock Test Rules' },
+  { key: 'online_mock_test_portal_usage', label: 'Online Mock Test Portal Usage' },
+  { key: 'class_schedules_and_hours', label: 'Class Schedules and Hours' },
+  { key: 'lecture_planner_and_number_of_hours', label: 'Lecture Planner & Number of Hours' },
+  { key: 'rejoining_policy', label: 'Rejoining Policy' },
+  { key: 'interview_preparation', label: 'Interview Preparation' },
+  { key: 'power_batch_criteria', label: 'Power Batch Criteria' },
+  { key: 'center_transfer_policy', label: 'Center Transfer Policy' },
+  { key: 'class_topper_tshirt_reward', label: 'Class Topper T-Shirt Reward' },
+  { key: 'how_candidate_will_get_class_schedule', label: 'How Candidate Will Get Class Schedule' },
+  { key: 'attendance_punching_rules', label: 'Attendance Punching Rules' },
+  { key: 'dpp_execution', label: 'DPP (Daily Practice Problems) Execution' },
+  { key: 'fees_followup_autopay_setup_info', label: 'Fees Follow-up & Auto-Pay Setup Info' },
+  { key: 'game_changer_book_info', label: 'Game Changer Book Info' },
+  { key: 'student_voice_sst', label: 'Student Voice (SST)' },
+  { key: 'class_note_pdf_access', label: 'Class Note PDF Access' },
+  { key: 'pre_recorded_lecture_access', label: 'Pre Recorded Lecture Access' },
+  { key: 'foundation_batch_recording_class_access', label: 'Foundation Batch Recording Class Access' },
+  { key: 'half_yearly_magazine', label: 'Half Yearly Magazine' }
+];
